@@ -1,0 +1,6 @@
+pandas
+matplotlib
+pymongo
+numpy
+dahuffman
+bitstring
